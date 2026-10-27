@@ -19,9 +19,9 @@
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| **NeuralForge** | Conversion-focused product studio website with motion and responsive storytelling | HTML, CSS, JavaScript |
-| **MetricFlow** | Interactive subscription analytics dashboard with revenue and retention views | HTML, CSS, JavaScript |
-| **CloserFlow** | Drag-and-drop sales pipeline with playbooks and delivery handoffs | HTML, CSS, JavaScript |
+| [**NeuralForge**](https://stassinsergey-lang.github.io/neuralforge-studio/) | Conversion-focused product studio website with motion and responsive storytelling | HTML, CSS, JavaScript |
+| [**MetricFlow**](https://stassinsergey-lang.github.io/metricflow-dashboard/) | Interactive subscription analytics dashboard with revenue and retention views | HTML, CSS, JavaScript |
+| [**CloserFlow**](https://stassinsergey-lang.github.io/closerflow-crm/) | Drag-and-drop sales pipeline with playbooks and delivery handoffs | HTML, CSS, JavaScript |
 
 ### Core stack
 
